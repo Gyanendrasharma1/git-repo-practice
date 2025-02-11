@@ -1,1 +1,2 @@
 "Bug fixes applied successfully" 
+"Add New login and Signup Feature in Add-feature branch" 
