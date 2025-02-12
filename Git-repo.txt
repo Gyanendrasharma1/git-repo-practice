@@ -2,4 +2,5 @@
 echo "Fix bug in login"
 
 this is the one fixes
-this is the many fixes
+i find this bug 
+also their thi one more bugs.
