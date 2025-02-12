@@ -1,1 +1,5 @@
-i add this header in header branch.
+"Bug fixes applied successfully" 
+echo "Fix bug in login"
+
+this is the one fixes
+this is the many fixes
